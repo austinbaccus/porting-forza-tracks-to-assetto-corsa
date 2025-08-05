@@ -9,7 +9,7 @@ general process:
 4. import extracted `.obj` and `.mtl` files into `Blender`
 
 ## blender
-5. convert all textures into `.png`
+5. prepare your textures
 6. for each object, find the right texture and apply it to the object's material
 7. some objects will have complex shaders with 2+ textures. good luck
 8. for each object, bake the texture and apply it to its respective object
