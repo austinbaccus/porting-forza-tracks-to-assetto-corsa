@@ -6,7 +6,7 @@ general process:
 1. get the `Forza Motorsport 3/4` `.iso`
 2. use `xbox360 iso extract` to extract files from the `.iso`
 3. use [`Forza Studio 4.4t2`](https://www.tapatalk.com/groups/kottons_chop_shop/forza-studio-4-4-t3213-s20.html) to extract your favorite track's meshes, textures, and UVs
-4. import extracted `.fbx` into `Blender`
+4. import extracted `.obj` and `.mtl` files into `Blender`
 
 ## blender
 5. convert all textures into `.png`
