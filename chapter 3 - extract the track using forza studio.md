@@ -1,7 +1,7 @@
 [original tutorial](https://codeescape.com/2012/05/forza-studio-4-0-forza-motorsport-resource-extraction-tool/)
 
 # tools needed
-- [`Forza Studio 4.4t2`](https://www.tapatalk.com/groups/kottons_chop_shop/forza-studio-4-4-t3213-s20.html)
+- [`Forza Studio 4.4t2`](https://www.tapatalk.com/groups/kottons_chop_shop/forza-studio-4-4-t3213.html)
 
 # overview
 First, I need to explain why I'm using `FS4.4t2` instead of `FS4.1` or `FS4.0`: `FS4.4t2` correctly extracts UVs. The original creator of Forza Studio, Mike Davis (aka `ernegien`/`xbox7887`) stopped working on Forza Studio a long time ago before he could get the UV code working. Some dude nicknamed "Chipi" picked up the work and made `FS4.4t2`, which extracts the UVs properly.
